@@ -5,7 +5,8 @@
 
 ### SIDEPROJECT
 
-- 🍎  building an IOS app with Swift📱 [My-first-app](https://github.com/euiminnn/apple_saranghae)
+- 🍎  building an IOS app with Swift📱 [My-first-app](https://github.com/euiminnn/My-first-app)
+- 💲  creating an cryptocurrenty auto trading [crypto-py](https://github.com/euiminnn/crypto-py)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=euiminnn)](https://github.com/anuraghazra/github-readme-stats)
 
