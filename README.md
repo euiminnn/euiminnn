@@ -8,8 +8,12 @@
 - 🍎  IOS app with Swift📱 [My-first-app](https://github.com/euiminnn/My-first-app)
 - 💲  cryptocurrenty auto trading service [crypto-py](https://github.com/euiminnn/crypto-py)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=euiminnn)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euiminnn&layout=compact)
-
+<table><tr>
+	<td valign="top" width="50%">
+      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=euiminnn)
+	</td>
+	<td valign="top" width="50%">
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euiminnn&layout=compact)
+	</td>
+</tr></table>
 
