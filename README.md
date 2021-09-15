@@ -5,7 +5,8 @@
 
 ### SIDEPROJECT
 
-- 🍎  IOS app with Swift📱 [My-first-iOS-app](https://github.com/euiminnn/My-first-iOS-app)
+- 🍏  iOS app development📱 [My-first-iOS-app](https://github.com/euiminnn/My-first-iOS-app)
+- 🍎  launching an iOS service📲 [DDIP](https://github.com/rkskekzzz/ddip)
 - 💲  cryptocurrenty auto trading service [crypto-py](https://github.com/euiminnn/crypto-py)
 
 <table><tr>
