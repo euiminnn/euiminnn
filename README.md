@@ -7,6 +7,7 @@
 
 - 🍏  iOS app development📱 [My-first-iOS-app](https://github.com/euiminnn/My-first-iOS-app)
 - 🍎  launching an iOS service📲 [DDIP](https://github.com/rkskekzzz/ddip)
+- 🏝  creating a git branch study course [GitBranchPiscine](https://github.com/Skyrich2000/GitBranchPiscine.git)
 - 💲  cryptocurrenty auto trading service [crypto-py](https://github.com/euiminnn/crypto-py)
 
 <table><tr>
