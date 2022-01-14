@@ -7,10 +7,9 @@
 
 ### SIDEPROJECTS
 
-- 🍏  iOS app development📱 [My-first-iOS-app](https://github.com/euiminnn/My-first-iOS-app)
-- 🍎  launching an iOS service📲 [DDIP](https://github.com/Duel-Dice)
+- 👯  launching an online community, expected Jan 30th '22 [42World](https://github.com/42-world)
+- 🍎  preparing an iOS service📲 [DDIP](https://github.com/Duel-Dice)
 - 🌴  creating a git branch study course [Learn-Git-Branch](https://github.com/Learn-Git-Branch)
-- 💲  cryptocurrenty auto trading service [crypto-py](https://github.com/euiminnn/crypto-py)
 
 <table><tr>
 	<td valign="top" width="50%">
